@@ -99,6 +99,10 @@ func (u *UserService) GetUser(id int) (*User, error) {
 
 ## Inspired by
 * [vardius/gocontainer](https://github.com/vardius/gocontainer) - Simple Dependency Injection Container
+* [golobby/container](https://github.com/golobby/container) - A lightweight yet powerful IoC dependency injection container for the Go programming language
+* [goava/di](https://github.com/goava/di) - 🛠 A full-featured dependency injection container for go programming language
+* [goioc/di](https://github.com/goioc/di) - Simple and yet powerful Dependency Injection for Go
+
 
 ## License
 GoZoox is released under the [MIT License](./LICENSE).
